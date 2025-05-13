@@ -32,6 +32,7 @@ Este es un proyecto de consola en Java que permite convertir montos entre difere
    ```bash
    git clone https://github.com/tu-usuario/nombre-del-repo.git
 
+💡 Ejemplo de uso
 === Conversor de Moneda ===
 Monedas disponibles:
 - ARS
