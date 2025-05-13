@@ -34,9 +34,12 @@ Este es un proyecto de consola en Java que permite convertir montos entre difere
 
 === Conversor de Moneda ===
 Monedas disponibles:
-- USD
-- EUR
 - ARS
+- BOB
+- BRL
+- CLP
+- COP
+- USD
 
 Ingrese la moneda origen (ej: USD): USD
 Ingrese la moneda destino (ej: ARS): EUR
